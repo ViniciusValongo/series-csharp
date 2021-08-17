@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vinicius\\Documents\\dio-dotnet-poo-lab-2\\DIO.Series.csproj",
+      "projectUniqueName": "D:\\Vinicius\\Documents\\series-c#\\DIO.Series.csproj",
       "projectName": "DIO.Series",
-      "projectPath": "D:\\Vinicius\\Documents\\dio-dotnet-poo-lab-2\\DIO.Series.csproj",
+      "projectPath": "D:\\Vinicius\\Documents\\series-c#\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "D:\\Vinicius\\Documents\\dio-dotnet-poo-lab-2\\obj\\",
+      "outputPath": "D:\\Vinicius\\Documents\\series-c#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
